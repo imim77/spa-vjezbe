@@ -1,9 +1,3 @@
-*.a
-*.lib
-*.exe
-*.out
-*.o
-*.obj
-*.dll
-*.so
-*.bin
+*
+!*/
+!*.*
