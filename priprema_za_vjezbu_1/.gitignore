@@ -1,3 +1,24 @@
+# Compiled object files and libraries
+*.a
+*.lib
+*.o
+*.obj
+*.dll
+*.so
+
+# Executable files
+*.exe
+*.out
+*.bin
+
+# Build directories
+build/
+bin/
+out/
+
+# Executable files without extensions (Unix/macOS)
+# Ignore all files without extensions (compiled executables)
+# Keep directories and files with extensions
 *
 !*/
 !*.*
